@@ -1,0 +1,6 @@
+__pycache__
+misc/*
+test/*
+dump*.txt
+replist.*
+*.backup
